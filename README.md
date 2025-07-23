@@ -73,16 +73,16 @@ Make sure Maven is installed and properly configured on your system. Open a term
 
 Key Maven commands to practice:
 
-- Compile the project
+#### Compile the project
     mvn compile
 
-- Package the project
+#### Package the project
     mvn package
 
-- Clean the project
+#### Clean the project
     mvn clean
 
-- Run the Spring Boot application
+#### Run the Spring Boot application
     mvn spring-boot:run
 
 
